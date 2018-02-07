@@ -8,12 +8,6 @@ Github上でドキュメントを書く際のテンプレートです。
 
 MITライセンスなので皆さん御自由にご利用ください。
 
-    .. toctree::
-        :maxdepth: 1
-
-        main_jp
-
-
 ::
     
     MIT License
@@ -27,11 +21,6 @@ A template for writing documents on Github.
 We will use this template for detailed technical documentation.
 
 Because it is MIT license, please use it freely.
-
-    .. toctree::
-        :maxdepth: 1
-
-        main_en
 
 ::
     
